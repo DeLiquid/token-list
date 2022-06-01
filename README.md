@@ -1,1 +1,1 @@
-# assets
+# @deliquid/asset-registry

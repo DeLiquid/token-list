@@ -1,0 +1,9 @@
+# dependencies
+node_modules
+package-lock.json
+
+# build
+build
+
+# mac
+.DS_Store

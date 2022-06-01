@@ -1,0 +1,23 @@
+{
+  "name": "@deliquid/asset-registry",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeLiquid/asset-registry.git"
+  },
+  "keywords": [],
+  "author": "Mark (Kailing) Ding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeLiquid/asset-registry/issues"
+  },
+  "homepage": "https://github.com/DeLiquid/asset-registry#readme",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}
