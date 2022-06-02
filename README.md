@@ -1,4 +1,4 @@
-# @deliquid/asset-registry
+# @deliquid/token-list
 
 A multi-chain collection of crypto tokens
 
