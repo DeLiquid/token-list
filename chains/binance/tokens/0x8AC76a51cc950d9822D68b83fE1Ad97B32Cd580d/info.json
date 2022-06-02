@@ -1,0 +1,15 @@
+{
+  "name": "Binance-Peg USD Coin",
+  "symbol": "USDC",
+  "type": "BEP20",
+  "decimals": 18,
+  "website": "https://www.centre.io",
+  "explorer": "https://bscscan.com/token/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+  "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+  "links": {
+    "github": "https://github.com/centrehq",
+    "medium": "https://medium.com/centre-blog",
+    "whitepaper": "https://centre.io/pdfs/centre-whitepaper.pdf",
+    "coingecko_id": "usd-coin"
+  }
+}
