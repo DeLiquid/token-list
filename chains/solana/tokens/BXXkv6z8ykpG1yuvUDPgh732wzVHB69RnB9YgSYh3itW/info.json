@@ -1,0 +1,15 @@
+{
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "type": "SPL",
+  "decimals": 6,
+  "website": "https://www.centre.io/usdc",
+  "explorer": "https://solscan.io/token/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "links": {
+    "github": "https://github.com/centrehq",
+    "medium": "https://medium.com/centre-blog",
+    "whitepaper": "https://centre.io/pdfs/centre-whitepaper.pdf",
+    "coingecko_id": "usd-coin"
+  }
+}

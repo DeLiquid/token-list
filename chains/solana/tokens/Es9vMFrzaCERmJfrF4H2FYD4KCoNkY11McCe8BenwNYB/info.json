@@ -1,0 +1,32 @@
+{
+  "name": "USDT",
+  "symbol": "USDT",
+  "type": "SPL",
+  "decimals": 6,
+  "website": "https://tether.to",
+  "explorer": "https://solscan.io/token/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+  "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+  "linkss": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Tether_to/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/OfficialTether"
+    },
+    {
+      "name": "facebook",
+      "url": "https://facebook.com/tether.to"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf"
+    }
+  ],
+  "links": {
+    "twitter": "https://twitter.com/Tether_to/",
+    "whitepaper": "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf",
+    "coingecko_id": "tether"
+  }
+}
