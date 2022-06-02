@@ -1,0 +1,38 @@
+{
+  "chain": "polygon",
+  "logoURI": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/polygon/logo.png",
+  "coin": {
+    "name": "Polygon",
+    "symbol": "MATIC",
+    "type": "coin",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/polygon/logo.png",
+    "website": "https://polygon.technology/",
+    "explorer": "https://polygonscan.com/",
+    "links": {
+      "github": "https://github.com/celo-org/celo-blockchain",
+      "twitter": "https://twitter.com/0xPolygon",
+      "reddit": "https://reddit.com/r/maticnetwork/",
+      "whitepaper": "https://github.com/maticnetwork/whitepaper",
+      "coingeckoId": "matic-network"
+    }
+  },
+  "tokens": [
+    {
+      "name": "USD Coin (PoS)",
+      "symbol": "USDC",
+      "type": "POLYGON",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/polygon/tokens/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png",
+      "website": "https://centre.io/usdc",
+      "explorer": "https://polygonscan.com/token/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "links": {
+        "github": "https://github.com/centrehq",
+        "medium": "https://medium.com/centre-blog",
+        "whitepaper": "https://centre.io/pdfs/centre-whitepaper.pdf",
+        "coingeckoId": "usd-coin"
+      }
+    }
+  ]
+}
