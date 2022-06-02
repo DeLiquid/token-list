@@ -1,0 +1,52 @@
+{
+  "chain": "solana",
+  "logoURI": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/solana/logo.png",
+  "coin": {
+    "name": "Solana",
+    "symbol": "SOL",
+    "type": "coin",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/solana/logo.png",
+    "website": "https://solana.com/",
+    "explorer": "https://explorer.solana.com/",
+    "links": {
+      "github": "https://github.com/solana-labs",
+      "twitter": "https://twitter.com/solana",
+      "reddit": "https://reddit.com/r/solana",
+      "coingeckoId": "solana"
+    }
+  },
+  "tokens": [
+    {
+      "name": "USDT",
+      "symbol": "USDT",
+      "type": "SPL",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/solana/tokens/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.png",
+      "website": "https://tether.to",
+      "explorer": "https://solscan.io/token/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "links": {
+        "twitter": "https://twitter.com/Tether_to/",
+        "whitepaper": "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf",
+        "coingeckoId": "tether"
+      }
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "type": "SPL",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/solana/tokens/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "website": "https://www.centre.io/usdc",
+      "explorer": "https://solscan.io/token/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "links": {
+        "github": "https://github.com/centrehq",
+        "medium": "https://medium.com/centre-blog",
+        "whitepaper": "https://centre.io/pdfs/centre-whitepaper.pdf",
+        "coingeckoId": "usd-coin"
+      }
+    }
+  ]
+}
