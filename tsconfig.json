@@ -5,7 +5,8 @@
     "declaration": true,
     "rootDir": "src",
     "outDir": "./build",
-    "strict": true
+    "strict": true,
+    "lib": ["es2021"]
   },
   "include": ["src"],
   "exclude": ["node_modules", "**/__tests__/*"]
