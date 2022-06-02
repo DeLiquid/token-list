@@ -10,6 +10,6 @@
     "github": "https://github.com/centrehq",
     "medium": "https://medium.com/centre-blog",
     "whitepaper": "https://centre.io/pdfs/centre-whitepaper.pdf",
-    "coingecko_id": "usd-coin"
+    "coingeckoId": "usd-coin"
   }
 }
