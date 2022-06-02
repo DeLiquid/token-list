@@ -1,5 +1,5 @@
 {
-  "name": "@deliquid/asset-registry",
+  "name": "@deliquid/token-list",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DeLiquid/asset-registry.git"
+    "url": "git+https://github.com/DeLiquid/token-list.git"
   },
   "keywords": [],
   "author": "Mark (Kailing) Ding",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DeLiquid/asset-registry/issues"
+    "url": "https://github.com/DeLiquid/token-list/issues"
   },
-  "homepage": "https://github.com/DeLiquid/asset-registry#readme",
+  "homepage": "https://github.com/DeLiquid/token-list#readme",
   "devDependencies": {
     "typescript": "^4.7.2"
   }
