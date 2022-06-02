@@ -1,0 +1,14 @@
+{
+  "name": "Solana",
+  "symbol": "SOL",
+  "type": "coin",
+  "decimals": 9,
+  "website": "https://solana.com/",
+  "explorer": "https://explorer.solana.com/",
+  "links": {
+    "github": "https://github.com/solana-labs",
+    "twitter": "https://twitter.com/solana",
+    "reddit": "https://reddit.com/r/solana",
+    "coingecko_id": "solana"
+  }
+}
