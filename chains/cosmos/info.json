@@ -1,0 +1,15 @@
+{
+  "name": "Cosmos",
+  "symbol": "ATOM",
+  "type": "coin",
+  "decimals": 6,
+  "website": "https://cosmos.network/",
+  "explorer": "https://www.mintscan.io/",
+  "links": {
+    "github": "https://github.com/cosmos",
+    "twitter": "https://twitter.com/cosmos",
+    "reddit": "https://reddit.com/r/cosmosnetwork",
+    "whitepaper": "https://cosmos.network/resources/whitepaper",
+    "coingecko_id": "cosmos"
+  }
+}
