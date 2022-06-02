@@ -1,2 +1,2 @@
-export * from './assetregistry';
+export * from './tokenlist';
 export * from './types';
