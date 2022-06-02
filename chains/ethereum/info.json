@@ -1,0 +1,14 @@
+{
+  "name": "Ethereum",
+  "symbol": "ETH",
+  "type": "coin",
+  "decimals": 18,
+  "website": "https://ethereum.org/",
+  "explorer": "https://etherscan.io/",
+  "links": {
+    "github": "https://github.com/ethereum",
+    "twitter": "https://twitter.com/ethereum",
+    "reddit": "https://reddit.com/r/ethereum",
+    "coingecko_id": "ethereum"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Tether",
+  "symbol": "USDT",
+  "type": "ERC20",
+  "decimals": 6,
+  "website": "https://tether.to",
+  "explorer": "https://etherscan.io/token/0xdAC17F958D2ee523a2206206994597C13D831ec7",
+  "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+  "links": {
+    "twitter": "https://twitter.com/Tether_to/",
+    "coingecko_id": "tether"
+  }
+}
