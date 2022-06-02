@@ -1,0 +1,15 @@
+{
+  "name": "Smart Chain",
+  "symbol": "BNB",
+  "type": "coin",
+  "decimals": 18,
+  "website": "https://binance.org/en/smartChain",
+  "explorer": "https://bscscan.com/",
+  "links": {
+    "github": "https://github.com/binance-chain/",
+    "twitter": "https://twitter.com/binance_dex",
+    "reddit": "https://reddit.com/r/BinanceExchange",
+    "whitepaper": "https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf",
+    "coingecko_id": "binancecoin"
+  }
+}
