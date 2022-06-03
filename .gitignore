@@ -4,6 +4,7 @@ package-lock.json
 
 # build
 build
+lib
 
 # test
 coverage

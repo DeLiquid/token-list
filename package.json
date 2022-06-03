@@ -1,8 +1,12 @@
 {
   "name": "@deliquid/token-list",
-  "version": "0.0.5",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.7",
+  "description": "A collection of crypto tokens",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/**/*"
+  ],
   "scripts": {
     "test": "npx jest --coverage"
   },

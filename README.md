@@ -1,6 +1,6 @@
 # @deliquid/token-list (beta)
 
-A multi-chain collection of crypto tokens
+A multi-chain collection of crypto tokens, including metadata, logos, and more.
 
 ## Installation
 

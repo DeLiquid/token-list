@@ -4,7 +4,7 @@
     "module": "commonjs",
     "declaration": true,
     "rootDir": "src",
-    "outDir": "./build",
+    "outDir": "./lib",
     "strict": true,
     "lib": ["es2021"]
   },
