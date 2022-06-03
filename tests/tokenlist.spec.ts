@@ -1,4 +1,4 @@
-import { TokenList, ChainList, FetchStrategy } from '../src';
+import { TokenList, ChainList } from '../src';
 
 describe('Test TokenList class', () => {
   test('TokenList can get tokens from all the chains', async () => {

@@ -20,18 +20,30 @@ const queryTokenList = async (files: string[]): Promise<Token[]> => {
   return tokens;
 };
 
+/**
+ * @class TokenList: a provider that fetches token list from a remote source
+ */
 export class TokenList {
   readonly fetchStrategy: FetchStrategy;
   constructor(fetchStrategy: FetchStrategy = FetchStrategy.Github) {
     this.fetchStrategy = fetchStrategy;
   }
 
+  /**
+   * @function getAllTokens: get tokens from all supported chains
+   * @returns Token[]: an array of tokens
+   */
   getAllTokens = async (): Promise<Token[]> => {
     const files = generateTokenListPaths(this.fetchStrategy);
     const tokens = await queryTokenList(files);
     return tokens;
   };
 
+  /**
+   * @function getTokensByChains: get tokens by chains.
+   * @param chains : a list of chains to fetch tokens from. (See supported chains in config.ts)
+   * @returns Token[]: an array of tokens on the given chains.
+   */
   getTokensByChains = async (chains: string[]): Promise<Token[]> => {
     const files = generateTokenListPaths(this.fetchStrategy, chains);
     const tokens = await queryTokenList(files);
