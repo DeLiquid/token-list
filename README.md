@@ -5,7 +5,7 @@ A multi-chain collection of crypto tokens, including metadata, logos, and more.
 ## Installation
 
 ```bash
-npm install @deliquid/token-list
+npm i @deliquid/token-list
 ```
 
 ## Basic Usage
