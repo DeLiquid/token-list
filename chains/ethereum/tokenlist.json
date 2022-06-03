@@ -6,7 +6,6 @@
     "symbol": "ETH",
     "type": "coin",
     "decimals": 18,
-
     "website": "https://ethereum.org/",
     "explorer": "https://etherscan.io/",
     "links": {
@@ -33,7 +32,7 @@
         "coingeckoId": "usd-coin"
       },
       "chain": "ethereum",
-      "logoURL": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/ethereum/tokens/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/ethereum/tokens/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
       "name": "Tether",
@@ -49,7 +48,7 @@
         "coingeckoId": "tether"
       },
       "chain": "ethereum",
-      "logoURL": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/ethereum/tokens/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/ethereum/tokens/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     }
   ]
 }
