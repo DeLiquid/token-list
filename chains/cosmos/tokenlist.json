@@ -6,7 +6,6 @@
     "symbol": "ATOM",
     "type": "coin",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/cosmos/logo.pn",
     "website": "https://cosmos.network/",
     "explorer": "https://www.mintscan.io/",
     "links": {
@@ -15,7 +14,9 @@
       "reddit": "https://reddit.com/r/cosmosnetwork",
       "whitepaper": "https://cosmos.network/resources/whitepaper",
       "coingeckoId": "cosmos"
-    }
+    },
+    "chain": "cosmos",
+    "logoURI": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/cosmos/logo.png"
   },
   "tokens": []
 }

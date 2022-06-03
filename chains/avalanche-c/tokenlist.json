@@ -6,14 +6,15 @@
     "symbol": "AVAX",
     "type": "coin",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/avalanche-c/logo.png",
     "website": "http://avax.network",
     "explorer": "https://explorer.avax.network",
     "links": {
       "github": "https://github.com/ava-labs",
       "whitepaper": "https://www.avalabs.org/whitepapers",
       "coingeckoId": "avalanche-2"
-    }
+    },
+    "chain": "avalanche-c",
+    "logoURI": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/avalanche-c/logo.png"
   },
   "tokens": []
 }
