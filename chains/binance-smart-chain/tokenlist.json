@@ -1,0 +1,38 @@
+{
+  "chain": "binance-smart-chain",
+  "logoURI": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/binance-smart-chain/logo.png",
+  "coin": {
+    "name": "Smart Chain",
+    "symbol": "BNB",
+    "type": "coin",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/binance-smart-chain/logo.png",
+    "website": "https://binance.org/en/smartChain",
+    "explorer": "https://bscscan.com/",
+    "links": {
+      "github": "https://github.com/binance-chain/",
+      "twitter": "https://twitter.com/binance_dex",
+      "reddit": "https://reddit.com/r/BinanceExchange",
+      "whitepaper": "https://www.binance.com/resources/ico/Binance_WhitePaper_en.pdf",
+      "coingeckoId": "binancecoin"
+    }
+  },
+  "tokens": [
+    {
+      "name": "Binance-Peg USD Coin",
+      "symbol": "USDC",
+      "type": "BEP20",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/binance-smart-chain/tokens/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png",
+      "website": "https://www.centre.io",
+      "explorer": "https://bscscan.com/token/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "links": {
+        "github": "https://github.com/centrehq",
+        "medium": "https://medium.com/centre-blog",
+        "whitepaper": "https://centre.io/pdfs/centre-whitepaper.pdf",
+        "coingeckoId": "usd-coin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "chain": "ethereum",
+  "logoURI": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/ethereum/logo.png",
+  "coin": {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "type": "coin",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/ethereum/logo.png",
+    "website": "https://ethereum.org/",
+    "explorer": "https://etherscan.io/",
+    "links": {
+      "github": "https://github.com/ethereum",
+      "twitter": "https://twitter.com/ethereum",
+      "reddit": "https://reddit.com/r/ethereum",
+      "coingeckoId": "ethereum"
+    }
+  },
+  "tokens": [
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "type": "ERC20",
+      "decimals": 6,
+      "logoURL": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/ethereum/tokens/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "website": "https://centre.io/usdc",
+      "explorer": "https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "links": {
+        "github": "https://github.com/centrehq",
+        "medium": "https://medium.com/centre-blog",
+        "coingeckoId": "usd-coin"
+      }
+    },
+    {
+      "name": "Tether",
+      "symbol": "USDT",
+      "type": "ERC20",
+      "decimals": 6,
+      "logoURL": "https://raw.githubusercontent.com/DeLiquid/token-list/main/chains/ethereum/tokens/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "website": "https://tether.to",
+      "explorer": "https://etherscan.io/token/0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "links": {
+        "twitter": "https://twitter.com/Tether_to/",
+        "whitepaper": "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf",
+        "coingeckoId": "tether"
+      }
+    }
+  ]
+}
