@@ -1,0 +1,13 @@
+{
+  "name": "Avalanche C-Chain",
+  "symbol": "AVAX",
+  "type": "coin",
+  "decimals": 18,
+  "website": "http://avax.network",
+  "explorer": "https://explorer.avax.network",
+  "links": {
+    "github": "https://github.com/ava-labs",
+    "whitepaper": "https://www.avalabs.org/whitepapers",
+    "coingeckoId": "avalanche-2"
+  }
+}
