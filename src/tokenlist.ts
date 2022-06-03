@@ -4,8 +4,8 @@ import { FetchStrategy } from './config';
 import { Chain, Token } from './types';
 import { generateTokenListPaths } from './utils';
 
-const queryTokenList = async (files: string[]) => {
-  const responses: Chain[] = await Promise.all(
+const queryTokenList = async (files: string[]): Promise<Token[]> => {
+  const chainList: Chain[] = await Promise.all(
     files.map(async (file) => {
       const response = await fetch(file);
       const json = (await response.json()) as Chain;
@@ -13,9 +13,11 @@ const queryTokenList = async (files: string[]) => {
     })
   );
 
-  return responses
-    .map((tokenlist: Chain) => tokenlist.tokens || [])
+  const tokens = chainList
+    .map((chain: Chain) => [chain.coin].concat(chain.tokens || []))
     .reduce((acc, arr) => (acc as Token[]).concat(arr), []);
+
+  return tokens;
 };
 
 export class TokenList {

@@ -1,28 +1,20 @@
 export interface Chain {
   readonly name: string;
   readonly logoURI: string;
-  readonly ncoin: Coin;
+  readonly coin: Token;
   readonly tokens: Token[];
-}
-
-export interface Coin {
-  readonly name: string;
-  readonly symbol: string;
-  readonly type: string;
-  readonly decimals: number;
-  readonly website: string;
-  readonly explorer: string;
-  readonly links?: Link;
 }
 
 export interface Token {
   readonly name: string;
+  readonly chain: string;
   readonly symbol: string;
   readonly type: string;
   readonly decimals: number;
-  readonly address: string;
   readonly website: string;
   readonly explorer: string;
+  readonly logoURI: string;
+  readonly address?: string;
   readonly links?: Link;
 }
 
