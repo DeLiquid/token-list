@@ -18,6 +18,17 @@ export interface Token {
   readonly links?: Link;
 }
 
+export interface FungibleToken {
+  readonly address: string;
+  readonly chainId: string | number;
+  readonly name: string;
+  readonly symbol: string;
+  readonly decimals: number;
+  readonly logoURI?: string;
+  readonly tags?: string[];
+  readonly extensions?: { [key: string]: string };
+}
+
 export interface Link {
   readonly github?: string;
   readonly twitter?: string;
