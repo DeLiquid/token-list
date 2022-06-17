@@ -26,7 +26,7 @@ export interface FungibleToken {
   readonly decimals: number;
   readonly logoURI?: string;
   readonly tags?: string[];
-  readonly extensions?: { [key: string]: string };
+  readonly extensions?: { [key: string]: any };
 }
 
 export interface Link {
